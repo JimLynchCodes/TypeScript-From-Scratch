@@ -4,7 +4,7 @@ This is the source code from the Youtube video here:
 
 # Usage
 
-Npm version: anything relatively new will be fine, but in general you should try to use a relatively new version! 😁
+Npm version: anything relatively new will be fine, but in general you should try to use a relatively new version!
 
 - Install dependencies:
 ```
