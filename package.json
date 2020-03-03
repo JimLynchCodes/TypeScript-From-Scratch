@@ -11,7 +11,7 @@
     "local": "node ./dist/index.js",
     "test": "jest",
     "lint": "tslint -p . --fix",
-    "test:watch": "nodemon -e ts --watch src --exec \"jest\""
+    "test:watch": "nodemon -e ts --watch src --exec \"npm run test\""
   },
   "repository": {
     "type": "git",
