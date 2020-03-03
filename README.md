@@ -1,6 +1,10 @@
 # TypeScript-From-Scratch
 
-This is the source code from the Youtube video here: 
+This is the source code from the Youtube video: https://youtu.be/igEqkiqDqf0
+
+<a href="https://youtu.be/igEqkiqDqf0">
+  <img src="./typescript-from-scratch-thumbnail.jpg"/>
+</a>
 
 # Usage
 
